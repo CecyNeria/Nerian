@@ -11,11 +11,46 @@ background: white;
     color: #000;
     padding-top: 40px;
     padding-bottom: 40px;
-    font: 15px letter gothic, sans-serif;	
+    font-family: verdana;
+	font-size: 15px;
+	letter-spacing: 3px;
 }
 
 body{
 text-align: center;
 margin: 0px;
 padding: 0px;
+}
+
+#primero{
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    background-color: #F4F4F4;
+    border: 30px;
+    border-color: black;
+    border-bottom: solid 1px #D6D7DC;
+}
+
+#segundo{
+	width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    font-family: sans-serif;
+    background-color: #dfecf5;
+    border: 30px;
+    border-bottom: solid 1px #D6D7DC;
+}
+
+#tercero{
+	width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    font-family: sans-serif;
+    background-color: #dfe0f4;
+    border: 30px;
+    border-bottom: solid 1px #D6D7DC;
 }
