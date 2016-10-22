@@ -26,11 +26,24 @@ padding: 0px;
     width: 100%;
     height: 550px;
     text-align: center;
-    font-size: 11px;
     background-color: #F4F4F4;
     border: 30px;
     border-color: black;
     border-bottom: solid 1px #D6D7DC;
+    font-family: verdana;
+	font-size: 15px;
+	letter-spacing: 3px;
+}
+
+#pie{
+	background: #E1EFF3;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: verdana;
+	font-size: 13.5px;
+	letter-spacing: 3px;
 }
 
 #segundo{
