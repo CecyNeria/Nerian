@@ -72,7 +72,12 @@ padding: 0px;
 	text-align: center;
     padding: 40px;
     background-color: #8453C8;
+}
+
+#texto{
+    background-color: #8453C8; 
     font-family: verdana;
-	font-size: 15px;
-	letter-spacing: 3px;
+    font-size: 15px;
+    letter-spacing: 3px;
+    padding: 0px;
 }
