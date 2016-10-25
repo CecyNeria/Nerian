@@ -77,9 +77,11 @@ padding: 0px;
 #texto{
     background-color: #8453C8; 
     font-family: verdana;
-    font-size: 15px;
+    font-size: 14px;
     letter-spacing: 3px;
-    padding: 0px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: justify;
 }
 
 #textomorado{
@@ -101,4 +103,16 @@ padding: 0px;
 
 .primertexto{
     align: center;
+}
+
+.click{
+    color: #E9E4F5;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size: 17px;
+}
+
+.gustar{
+    color: #E9E4F5;
+    font-size: 17px;
 }
