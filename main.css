@@ -81,3 +81,24 @@ padding: 0px;
     letter-spacing: 3px;
     padding: 0px;
 }
+
+#textomorado{
+    color: #8258B6;
+    font-weight: bold;
+    align: center;
+}
+
+.imagenseparada{
+    margin-bottom: 10px;
+    align: center;
+}
+
+.imagenesquina{
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+
+.primertexto{
+    align: center;
+}
